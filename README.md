@@ -13,7 +13,7 @@
 > Dewa Eka Wirasaputra (19081010139)
 
 ## Definisi Asana
-   Asana adalah sebuah platform manajemen tugas dan proyek yang membantu tim dan individu mengorganisir, mengkoordinasikan, dan melacak pekerjaan mereka. Asana dirancang untuk membantu meningkatkan produktivitas, mengelola proyek secara efisien, dan memfasilitasi kolaborasi antara anggota tim.Dikembangkan oleh Dustin Moskovitz dan Justin Rosenstein, dua mantan insinyur Facebook, Asana diluncurkan pada tahun 2011 dan sejak itu telah menjadi salah satu alat manajemen tugas yang paling populer.
+   Asana adalah sebuah platform manajemen tugas dan proyek yang membantu tim dan individu mengorganisir, mengkoordinasikan, dan melacak pekerjaan mereka. Asana dirancang untuk membantu meningkatkan produktivitas, mengelola proyek secara efisien, dan memfasilitasi kolaborasi antara anggota tim.
 
 
 ## Fitur-Fitur Asana
@@ -145,7 +145,7 @@ Paket Bisnis Asana ditujukan untuk tim dan organisasi yang membutuhkan fitur-fit
    
 ### 1. Android
 
-Play storen : https://play.google.com/store/apps/details?id=com.asana.app
+Play store : https://play.google.com/store/apps/details?id=com.asana.app
 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/mobile/Android.jpg)
 
