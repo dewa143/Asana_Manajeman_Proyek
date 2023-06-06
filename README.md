@@ -1,6 +1,9 @@
 # Panduan Asana
 
 - [Definisi Asana](https://github.com/dewa143/Asana_Manajeman_Proyek#definisi-asana)
+- [Fitur - Fitur Asana](https://github.com/dewa143/Asana_Manajeman_Proyek#fitur-fitur-asana)
+- [Mendaftar Asana](https://github.com/dewa143/Asana_Manajeman_Proyek#mendaftar-asana)
+
 
 
 # Asana - Manajeman Proyek
@@ -49,5 +52,79 @@ Asana memiliki aplikasi mobile yang memungkinkan pengguna untuk mengakses dan me
 Buka situs web Asana di browser Anda. Anda dapat mengunjungi https://asana.com/ untuk mengakses halaman utama Asana. Klik tombol "Mulai" di sudut kanan atas halaman. Ini akan membawa Anda ke halaman pendaftaran. 
 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana01.png)
+
+### 2. Daftar
+
+![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana02.png)
+
+### 3. Verifikasi
+
+![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana03.png)
+![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana04.png)
+
+### 4.
+
+![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana05.png)
+
+### 5.
+
+![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana06.png)
+![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana07.png)
+
+### 6.
+
+![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana08.png)
+
+### 7.
+
+![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana09.png)
+
+### 8.
+
+![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana010.png)
+
+### 9.
+
+![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana11.png)
+
+### 10.
+
+![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana12.png)
+
+### 11.
+
+![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana13.png)
+![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana14.png)
+
+### 12.
+
+![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana15.png)
+![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana16.png)
+![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana17.png)
+![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana18.png)
+
+### 13.
+
+![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana19.png)
+
+### 14.
+
+![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana20.png)
+
+### 15. Dasboard
+
+![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana21.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
