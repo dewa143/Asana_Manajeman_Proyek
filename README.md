@@ -119,6 +119,7 @@ Buka situs web Asana di browser Anda. Anda dapat mengunjungi https://asana.com/ 
 
 ## Membuat Proyek Asana
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_bi1EtLX_kA/0.jpg)](https://www.youtube.com/watch?v=_bi1EtLX_kA)
 
 
 ## Pilihan Paket Asana
