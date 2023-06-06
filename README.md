@@ -115,6 +115,26 @@ Buka situs web Asana di browser Anda. Anda dapat mengunjungi https://asana.com/ 
 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana21.png)
 
+## Pilihan Paket
+### 1. Paket Basic
+Asana menyediakan paket gratis yang memungkinkan Anda untuk menggunakan sebagian besar fitur dasar Asana secara gratis. Dalam paket ini, Anda dapat membuat proyek, menugaskan tugas, mengatur tenggat waktu, berkolaborasi dengan tim, dan melacak kemajuan proyek. Paket gratis ini cocok untuk individu atau tim kecil yang membutuhkan alat dasar manajemen tugas
+
+![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/harga/basic.JPG)
+
+### 2. Paket Premium
+Asana menyediakan akses ke fitur-fitur yang lebih canggih dan ditingkatkan. Dengan paket ini, Anda akan mendapatkan fitur-fitur seperti integrasi dengan aplikasi pihak ketiga, pengawasan proyek yang lebih mendalam, pembuatan formulir tugas, pelaporan dan analisis yang lebih lanjut, pengaturan prioritas, dan dukungan pelanggan yang diperluas. Paket Premium ditawarkan dengan biaya berlangganan bulanan atau tahunan.
+
+
+![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/harga/premium.JPG)
+
+### 3. Paket Bisnis
+Paket Bisnis Asana ditujukan untuk tim dan organisasi yang membutuhkan fitur-fitur lanjutan serta manajemen dan pengawasan yang lebih komprehensif. Dalam paket ini, Anda akan mendapatkan semua fitur yang ada dalam paket Premium, ditambah dengan kemampuan untuk mengelola hak akses dan izin pengguna, pembaruan keamanan, integrasi SSO (Single Sign-On), pembaruan kebijakan data, dan dukungan pelanggan prioritas. Paket Bisnis juga ditawarkan dengan biaya berlangganan bulanan atau tahunan.
+
+![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/harga/business.JPG)
+
+
+
+
 
 
 
