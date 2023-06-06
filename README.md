@@ -145,13 +145,13 @@ Paket Bisnis Asana ditujukan untuk tim dan organisasi yang membutuhkan fitur-fit
    
 ### 1. Android
 
-link:
+Play storen : https://play.google.com/store/apps/details?id=com.asana.app
 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/mobile/Android.jpg)
 
 ### 2. iOS
 
-link:
+App store : https://apps.apple.com/us/app/asana-work-in-one-place/id489969512
 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/mobile/iOS.jpg)
 
