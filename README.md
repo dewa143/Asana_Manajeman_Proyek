@@ -1,8 +1,13 @@
+# Panduan Asana
+
+- [Definisi Asana](https://github.com/dewa143/Asana_Manajeman_Proyek# Asana - Manajeman Proyek)
+
+
 # Asana - Manajeman Proyek
- Asana-ToolManajemenProyek
+
 > Dewa Eka Wirasaputra (19081010139)
 
-## Asana
+## Definisi Asana
    Asana adalah sebuah platform manajemen tugas dan proyek yang membantu tim dan individu mengorganisir, mengkoordinasikan, dan melacak pekerjaan mereka. Asana dirancang untuk membantu meningkatkan produktivitas, mengelola proyek secara efisien, dan memfasilitasi kolaborasi antara anggota tim.Dikembangkan oleh Dustin Moskovitz dan Justin Rosenstein, dua mantan insinyur Facebook, Asana diluncurkan pada tahun 2011 dan sejak itu telah menjadi salah satu alat manajemen tugas yang paling populer.
 
 
