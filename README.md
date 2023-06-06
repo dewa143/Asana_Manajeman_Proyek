@@ -5,6 +5,7 @@
 - [Mendaftar Asana](https://github.com/dewa143/Asana_Manajeman_Proyek#mendaftar-asana)
 - [Membuat Proyek Asana](https://github.com/dewa143/Asana_Manajeman_Proyek#membuat-proyek-asana)
 - [Paket Pilihan Asana](https://github.com/dewa143/Asana_Manajeman_Proyek#pilihan-paket-asana)
+- [Mobile Asana](https://github.com/dewa143/Asana_Manajeman_Proyek#mobile-asana)
 
 
 
@@ -64,16 +65,16 @@ Buka situs web Asana di browser Anda. Anda dapat mengunjungi https://asana.com/ 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana03.png)
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana04.png)
 
-### 4.
+### 4. Nama dan Password
 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana05.png)
 
-### 5.
+### 5. Pilihan Rekomendasi
 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana06.png)
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana07.png)
 
-### 6.
+### 6. 
 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana08.png)
 
@@ -81,24 +82,24 @@ Buka situs web Asana di browser Anda. Anda dapat mengunjungi https://asana.com/ 
 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana09.png)
 
-### 8.
+### 8. 
 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana10.png)
 
-### 9.
+### 9. Judul Proyek
 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana11.png)
 
-### 10.
+### 10. Pembagian Tugas
 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana12.png)
 
-### 11.
+### 11. Detail Proyek
 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana13.png)
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana14.png)
 
-### 12.
+### 12. Tampilan Tata Letak Proyek
 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana15.png)
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana16.png)
@@ -140,8 +141,16 @@ Paket Bisnis Asana ditujukan untuk tim dan organisasi yang membutuhkan fitur-fit
 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/harga/business.JPG)
 
+## Aplikasi seluler Asana
+   Asana menyediakan aplikasi seluler untuk pengguna yang ingin mengakses dan menggunakan platform Asana dari perangkat mobile mereka.
+   
+### 1. Android
 
+![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/mobile/Android.JPG)
 
+### 2. iOS
+
+![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/mobile/iOS.JPG)
 
 
 
