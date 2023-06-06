@@ -81,7 +81,7 @@ Buka situs web Asana di browser Anda. Anda dapat mengunjungi https://asana.com/ 
 
 ### 8.
 
-![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana010.png)
+![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana10.png)
 
 ### 9.
 
