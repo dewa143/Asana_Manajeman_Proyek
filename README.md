@@ -44,3 +44,10 @@ Asana menyediakan fitur otomatisasi yang memungkinkan pengguna untuk mengotomati
 ### 10.	Aksesibilitas Mobile
 Asana memiliki aplikasi mobile yang memungkinkan pengguna untuk mengakses dan mengelola tugas dan proyek dari perangkat seluler. Ini memungkinkan akses yang mudah dan fleksibilitas dalam bekerja secara terhubung.
 
+## Mendaftar Asana
+### 1. Membuka website Asana
+Buka situs web Asana di browser Anda. Anda dapat mengunjungi https://asana.com/ untuk mengakses halaman utama Asana. Klik tombol "Mulai" di sudut kanan atas halaman. Ini akan membawa Anda ke halaman pendaftaran. 
+
+![alt text] (https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana01.png)
+
+
