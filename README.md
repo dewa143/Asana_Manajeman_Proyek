@@ -3,6 +3,8 @@
 - [Definisi Asana](https://github.com/dewa143/Asana_Manajeman_Proyek#definisi-asana)
 - [Fitur - Fitur Asana](https://github.com/dewa143/Asana_Manajeman_Proyek#fitur-fitur-asana)
 - [Mendaftar Asana](https://github.com/dewa143/Asana_Manajeman_Proyek#mendaftar-asana)
+- [Membuat Proyek Asana](https://github.com/dewa143/Asana_Manajeman_Proyek#membuat-proyek-asana)
+- [Paket Pilihan Asana](https://github.com/dewa143/Asana_Manajeman_Proyek#pilihan-paket-asana)
 
 
 
@@ -115,7 +117,11 @@ Buka situs web Asana di browser Anda. Anda dapat mengunjungi https://asana.com/ 
 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana21.png)
 
-## Pilihan Paket
+## Membuat Proyek Asana
+
+
+
+## Pilihan Paket Asana
 ### 1. Paket Basic
 Asana menyediakan paket gratis yang memungkinkan Anda untuk menggunakan sebagian besar fitur dasar Asana secara gratis. Dalam paket ini, Anda dapat membuat proyek, menugaskan tugas, mengatur tenggat waktu, berkolaborasi dengan tim, dan melacak kemajuan proyek. Paket gratis ini cocok untuk individu atau tim kecil yang membutuhkan alat dasar manajemen tugas
 
