@@ -1,2 +1,41 @@
 # Asana - Manajeman Proyek
-Tugas
+ Asana-ToolManajemenProyek
+> Dewa Eka Wirasaputra (19081010139)
+
+## Asana
+   Asana adalah sebuah platform manajemen tugas dan proyek yang membantu tim dan individu mengorganisir, mengkoordinasikan, dan melacak pekerjaan mereka. Asana dirancang untuk membantu meningkatkan produktivitas, mengelola proyek secara efisien, dan memfasilitasi kolaborasi antara anggota tim.Dikembangkan oleh Dustin Moskovitz dan Justin Rosenstein, dua mantan insinyur Facebook, Asana diluncurkan pada tahun 2011 dan sejak itu telah menjadi salah satu alat manajemen tugas yang paling populer.
+
+
+## Fitur-Fitur Asana
+   Asana Memiliki beberapa Fitur :
+   
+### 1. Daftar Tugas
+Pengguna dapat membuat daftar tugas yang terorganisir berdasarkan proyek atau tim. Setiap tugas memiliki deskripsi, tenggat waktu, penugasan, dan komentar terkait.
+
+### 2.	Tenggat Waktu 
+Pengguna dapat mengatur tenggat waktu untuk setiap tugas, sehingga anggota tim tahu kapan sebuah tugas harus diselesaikan. Asana mengirimkan pengingat otomatis menjelang tenggat waktu yang ditentukan.
+
+### 3.	Penugasan dan Kolaborasi
+Pengguna dapat menugaskan tugas kepada anggota tim tertentu. Setiap anggota tim dapat melihat tugas yang ditugaskan kepada mereka dan berkolaborasi dalam menyelesaikan tugas tersebut.
+
+### 4.	Subtugas 
+Pengguna dapat membagi tugas yang kompleks menjadi subtugas yang lebih kecil dan terkelola. Ini memungkinkan untuk melacak kemajuan dan memastikan setiap bagian dari tugas diselesaikan dengan tepat.
+
+### 5.	Lampiran dan Komentar
+Pengguna dapat melampirkan file, gambar, atau dokumen terkait tugas untuk mempermudah kolaborasi. Selain itu, mereka juga dapat mengomentari tugas dan memberikan pembaruan kepada anggota tim.
+
+### 6.	Tampilan Proyek
+Asana menyediakan tampilan proyek yang memungkinkan pengguna melihat keseluruhan proyek, mengetahui status tugas, dan melacak kemajuan pekerjaan. Papan kerja yang dapat dikustomisasi juga tersedia untuk memvisualisasikan alur kerja.
+
+### 7.	Grafik Kemajuan
+Asana menyediakan grafik kemajuan yang membantu pengguna dalam memantau dan melacak kemajuan tugas dan proyek secara visual. Grafik ini memungkinkan pengguna untuk melihat sejauh mana proyek telah berjalan dan mengidentifikasi area yang memerlukan perhatian lebih.
+
+### 8.	Integrasi dengan Aplikasi Lain
+Asana dapat terintegrasi dengan berbagai alat dan aplikasi lain yang digunakan dalam lingkungan kerja, seperti Gmail, Slack, Google Drive, dan lainnya. Integrasi ini memungkinkan pengguna untuk menghubungkan alur kerja mereka dan meminimalkan kebutuhan untuk beralih antara platform.
+
+### 9.	Automasi
+Asana menyediakan fitur otomatisasi yang memungkinkan pengguna untuk mengotomatiskan beberapa tugas dan alur kerja. Misalnya, pengguna dapat mengatur aturan untuk mengirim pemberitahuan atau mengubah status tugas secara otomatis.
+
+### 10.	Aksesibilitas Mobile
+Asana memiliki aplikasi mobile yang memungkinkan pengguna untuk mengakses dan mengelola tugas dan proyek dari perangkat seluler. Ini memungkinkan akses yang mudah dan fleksibilitas dalam bekerja secara terhubung.
+
