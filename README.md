@@ -5,8 +5,7 @@
 - [Mendaftar Asana](https://github.com/dewa143/Asana_Manajeman_Proyek#mendaftar-asana)
 - [Membuat Proyek Asana](https://github.com/dewa143/Asana_Manajeman_Proyek#membuat-proyek-asana)
 - [Paket Pilihan Asana](https://github.com/dewa143/Asana_Manajeman_Proyek#pilihan-paket-asana)
-- [Mobile Asana](https://github.com/dewa143/Asana_Manajeman_Proyek#mobile-asana)
-
+- [Aplikasi Seluler Asana](https://github.com/dewa143/Asana_Manajeman_Proyek#aplikasi-seluler-asana)
 
 
 # Asana - Manajeman Proyek
@@ -146,9 +145,13 @@ Paket Bisnis Asana ditujukan untuk tim dan organisasi yang membutuhkan fitur-fit
    
 ### 1. Android
 
+link:
+
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/mobile/Android.JPG)
 
 ### 2. iOS
+
+link:
 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/mobile/iOS.JPG)
 
