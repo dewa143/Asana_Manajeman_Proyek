@@ -147,13 +147,13 @@ Paket Bisnis Asana ditujukan untuk tim dan organisasi yang membutuhkan fitur-fit
 
 link:
 
-![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/mobile/Android.JPG)
+![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/mobile/Android.jpg)
 
 ### 2. iOS
 
 link:
 
-![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/mobile/iOS.JPG)
+![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/mobile/iOS.jpg)
 
 
 
