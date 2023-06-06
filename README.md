@@ -1,6 +1,6 @@
 # Panduan Asana
 
-- [Definisi Asana](https://github.com/dewa143/Asana_Manajeman_Proyek# Asana - Manajeman Proyek)
+- [Definisi Asana](https://github.com/dewa143/Asana_Manajeman_Proyek#Asana-Manajeman Proyek)
 
 
 # Asana - Manajeman Proyek
