@@ -107,9 +107,14 @@ Berikutnya anda bisa mengelompokan tugas – tugas ke dalam bagian atau tahapan 
 ### 12. Tampilan Tata Letak Proyek
 Pada tahap terakhir pendaftaran anda bisa mengelola tampilan tata letak proyek pertama anda yang disediakan oleh Asana. Silahkan pilih sesuai dengan proyek anda dan anda bisa mengubah tata letak yang tersedia dari asana.  
 
+Berikut tampilan tata letak yang disediakan Asana:
+#### A. Daftar
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana15.png)
+#### B. Papan
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana16.png)
+#### C. Linimasi
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana17.png)
+#### D. Kalender
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana18.png)
 
 ### 13.	Mengundang Tim proyek 
