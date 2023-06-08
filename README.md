@@ -56,15 +56,18 @@ Buka situs web Asana di browser Anda. Anda dapat mengunjungi https://asana.com/ 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana01.png)
 
 ### 2. Daftar
+Pada halaman pendaftaran, silahkan masukkan alamat email Anda untuk mendaftar Asana
 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana02.png)
 
-### 3. Verifikasi
+### 3. Verifikasi Akun
+Berikutnya  anda akan menerima email dari Asana untuk memverifikasi akun Asana. Silahkan klik “verifikasi alamat email”
 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana03.png)
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana04.png)
 
-### 4. Nama dan Password
+### 4. Mengisi Nama dan Password
+Selanjutnya anda bisa melengkapi data nama lengkap anda dan password. Setelah selesai mengisi nama lengkap dan password silahkan klik lanjutkan.
 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana05.png)
 
@@ -73,43 +76,50 @@ Buka situs web Asana di browser Anda. Anda dapat mengunjungi https://asana.com/ 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana06.png)
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana07.png)
 
-### 6. 
+### 6. Pilih bidang Pekerjaan 
 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana08.png)
 
-### 7.
+### 7. Tujuan mengunakan Asana
 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana09.png)
 
-### 8. 
+### 8. Konfigurasi Proyek Pertama
+Selanjutnya anda bisa memilih konfigurasi untuk proyek pertama anda nanti. Anda bisa memilih rekomendasi ide dari asana dan anda bisa mengisi sendiri nama konfigurasi pada proyek pertama anda. Jika sudah silahkan klik lanjutkan 
+
 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana10.png)
 
-### 9. Judul Proyek
+### 9. Nama Proyek
 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana11.png)
 
-### 10. Pembagian Tugas
+### 10. Pengelompokan Tugas Proyek
+Berikutnya anda bisa mengelompokan tugas – tugas ke dalam bagian atau tahapan proyek. Jika sudah selesai mengisinya silahkan klik lanjutkan.
 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana12.png)
 
-### 11. Detail Proyek
+### 11. Menambakan Detail Proyek 
 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana13.png)
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana14.png)
 
 ### 12. Tampilan Tata Letak Proyek
+Pada tahap terakhir pendaftaran anda bisa mengelola tampilan tata letak proyek pertama anda yang disediakan oleh Asana. Silahkan pilih sesuai dengan proyek anda dan anda bisa mengubah tata letak yang tersedia dari asana.  
 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana15.png)
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana16.png)
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana17.png)
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana18.png)
 
-### 13.
+### 13.	Mengundang Tim proyek 
+Selanjutnya anda bisa mengisi email anggota anda untuk mengundangnya ke dalam tim proyek anda.  Jika sudah mengisi email anggota tim anda silahkan klik lanjutkan.
 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana19.png)
 
-### 14.
+### 14. Aplikasi seluler Asana
+Anda akan diberikan opsi untuk mengunduh aplikasi seluler Asana jika Anda menginginkannya, jika tidak bisa anda bisa melewatinya.
+
 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana20.png)
 
