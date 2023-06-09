@@ -2,7 +2,7 @@
 
 - [Definisi Asana](https://github.com/dewa143/Asana_Manajeman_Proyek#definisi-asana)
 - [Fitur - Fitur Asana](https://github.com/dewa143/Asana_Manajeman_Proyek#fitur-fitur-asana)
-- [Mendaftar Asana](https://github.com/dewa143/Asana_Manajeman_Proyek#mendaftar-asana)
+- [Mendaftar Akun Asana](https://github.com/dewa143/Asana_Manajeman_Proyek#mendaftar-akun-asana)
 - [Membuat Proyek Asana](https://github.com/dewa143/Asana_Manajeman_Proyek#membuat-proyek-asana)
 - [Paket Pilihan Asana](https://github.com/dewa143/Asana_Manajeman_Proyek#pilihan-paket-asana)
 - [Aplikasi Seluler Asana](https://github.com/dewa143/Asana_Manajeman_Proyek#aplikasi-seluler-asana)
@@ -49,8 +49,8 @@ Asana menyediakan fitur otomatisasi yang memungkinkan pengguna untuk mengotomati
 ### 10.	Aksesibilitas Mobile
 Asana memiliki aplikasi mobile yang memungkinkan pengguna untuk mengakses dan mengelola tugas dan proyek dari perangkat seluler. Ini memungkinkan akses yang mudah dan fleksibilitas dalam bekerja secara terhubung.
 
-## Mendaftar Asana
-### 1. Membuka website Asana
+## Mendaftar Akun Asana
+### 1. Membuka Website Asana
 Buka situs web Asana di browser Anda. Anda dapat mengunjungi https://asana.com/ untuk mengakses halaman utama Asana. Klik tombol "Mulai" di sudut kanan atas halaman. Ini akan membawa Anda ke halaman pendaftaran. 
 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana01.png)
@@ -77,7 +77,7 @@ Silahkan anda memilih opsi peran utama anda saat ini yang disediakan oleh Asana.
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana06.png)
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana07.png)
 
-### 6. Pilih bidang Pekerjaan 
+### 6. Pilih Bidang Pekerjaan 
 Silahkan anda memilih opsi bidang pekerjaan anda saat ini yang disediakan oleh Asana. Jika sudah selesai memilih silahkan klik lanjutkan atau anda bisa melewatinya jika anda tidak menginginkannya.
 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana08.png)
@@ -98,7 +98,7 @@ Silahkan isi nama proyek pertama anda. Jika sudah selesai mengisinya silahkan kl
 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana11.png)
 
-### 10. Pengelompokan Tugas Proyek
+### 10. Mengelompokan Tugas Proyek
 Berikutnya anda bisa mengelompokan tugas – tugas ke dalam bagian atau tahapan proyek. Jika sudah selesai mengisinya silahkan klik lanjutkan.
 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana12.png)
