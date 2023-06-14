@@ -141,8 +141,7 @@ Setelah selasai pendaftaran dan mengikuti beberapa langkah membuat proyek pertam
 ## Membuat Proyek Baru Asana
 *silahkan klik untuk membuka video
 
-[![Watch the video](https://img.youtube.com/vi/9o_Lqz6iE7o)](https://youtu.be/9o_Lqz6iE7o)
-
+[![Video](https://img.youtube.com/vi/youtu.be/9o_Lqz6iE7o/maxresdefault.jpg)](https://www.youtube.com/watch?v=youtu.be/9o_Lqz6iE7o)
 
 ## Pilihan Paket Asana
 ### 1. Paket Basic
