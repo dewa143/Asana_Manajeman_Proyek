@@ -139,6 +139,10 @@ Setelah selasai pendaftaran dan mengikuti beberapa langkah membuat proyek pertam
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana21.png)
 
 ## Membuat Proyek Baru Asana
+*silahkan klik untuk membuka video
+
+[![Watch the video](https://img.youtube.com/vi/9o_Lqz6iE7o)](https://youtu.be/9o_Lqz6iE7o)
+
 
 ## Pilihan Paket Asana
 ### 1. Paket Basic
