@@ -3,6 +3,7 @@
 - [Definisi Asana](https://github.com/dewa143/Asana_Manajeman_Proyek#definisi-asana)
 - [Fitur - Fitur Asana](https://github.com/dewa143/Asana_Manajeman_Proyek#fitur-fitur-asana)
 - [Mendaftar Akun Asana](https://github.com/dewa143/Asana_Manajeman_Proyek#mendaftar-akun-asana)
+- [Membuat Proyek Baru Asana](https://github.com/dewa143/Asana_Manajeman_Proyek#membuat-proyek-baru-asana)
 - [Paket Pilihan Asana](https://github.com/dewa143/Asana_Manajeman_Proyek#pilihan-paket-asana)
 - [Aplikasi Seluler Asana](https://github.com/dewa143/Asana_Manajeman_Proyek#aplikasi-seluler-asana)
 
@@ -136,6 +137,8 @@ Anda akan diberikan opsi untuk mengunduh aplikasi seluler Asana jika Anda mengin
 Setelah selasai pendaftaran dan mengikuti beberapa langkah membuat proyek pertama maka Anda ditampilkan dashboard Asana. Ini adalah pusat kendali yang memberikan gambaran umum tentang proyek.
 
 ![alt text](https://github.com/dewa143/Asana_Manajeman_Proyek/blob/main/image/Asana21.png)
+
+## Membuat Proyek Baru Asana
 
 ## Pilihan Paket Asana
 ### 1. Paket Basic
